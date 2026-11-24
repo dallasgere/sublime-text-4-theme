@@ -1,0 +1,7 @@
+id = "sublime-text-4-theme"
+name = "Sublime Text 4 Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["Dallas Gere"]
+description = "A dark theme for Zed inspired by Sublime Text 4."
+repository = "https://github.com/dallasgere/sublime-text-4-theme"
