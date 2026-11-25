@@ -119,22 +119,22 @@
         "success.background": "#81b88b1a",
         "success.border": "#81b88b66",
         "created": "#99c794",
-        "created.background": "#99c7941f",
+        "created.background": "#99c7942e",
         "created.border": "#99c79466",
         "modified": "#e6bc6a",
-        "modified.background": "#e6bc6a1f",
+        "modified.background": "#e6bc6a2e",
         "modified.border": "#e6bc6a66",
         "deleted": "#e26d72",
-        "deleted.background": "#e26d721f",
+        "deleted.background": "#e26d722e",
         "deleted.border": "#e26d7266",
         "renamed": "#99c794",
-        "renamed.background": "#99c7941f",
+        "renamed.background": "#99c7942e",
         "renamed.border": "#99c79466",
         "conflict": "#e89f5c",
-        "conflict.background": "#e89f5c1f",
+        "conflict.background": "#e89f5c2e",
         "conflict.border": "#e89f5c66",
         "ignored": "#7c7f83",
-        "ignored.background": "#7c7f831f",
+        "ignored.background": "#7c7f832e",
         "ignored.border": "#7c7f8366",
         "hidden": "#778290",
         "hidden.background": "#7782901a",
@@ -145,11 +145,11 @@
         "predictive": "#909cac",
         "predictive.background": "#909cac1a",
         "predictive.border": "#909cac66",
-        "version_control.added": "#6f8e6f",
-        "version_control.modified": "#4e7094",
-        "version_control.deleted": "#a54b51",
-        "version_control.renamed": "#4e7094",
-        "version_control.conflict": "#a2744b",
+        "version_control.added": "#8fba8c",
+        "version_control.modified": "#6090bf",
+        "version_control.deleted": "#dc5a61",
+        "version_control.renamed": "#6090bf",
+        "version_control.conflict": "#d89558",
         "version_control.ignored": "#7c7f83",
         "players": [
           {
@@ -568,8 +568,8 @@
             "font_weight": 400
           }
         },
-        "version_control.word_added": "#6f8e6f47",
-        "version_control.word_deleted": "#a54b5147"
+        "version_control.word_added": "#8fba8c5c",
+        "version_control.word_deleted": "#dc5a615c"
       }
     }
   ]
